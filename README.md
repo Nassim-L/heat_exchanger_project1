@@ -7,8 +7,11 @@ Le logiciel propose les fonctionnalités suivantes :
 
 * Un calculateur simple qui permet le calcul direct de la résistance d'encrassement pour le cas considéré dans la présente étude.
 * Un calculateur avancé qui permet de calculer la résistance d'encrassement pour plusieurs jours, avec une vitesse de calcul accrue. Cette fonction propose deux modes de fonctionnement distincts :
+  
   * Un mode d'édition libre qui permet à l'utilisateur de spécifier les propriétés physiques et chimiques des deux fluides impliqués dans l'étude.
+    
   * Un mode spécifiquement conçu pour certains fluides pour lesquels une étude a été menée et des corrélations spécifiques ont été développées. Dans ce mode, le logiciel utilise les corrélations disponibles pour obtenir les propriétés physiques et chimiques des fluides à partir des seules données de température et de débit. De plus, il applique la correction de la viscosité pour des résultats plus précis.
+    
 * Une fonction graphique qui permet de visualiser graphiquement les résultats de l'évolution de la résistance d'encrassement en fonction de temps. Cette fonction offre un contrôle total sur l'apparence du graphique, permettant de personnaliser divers aspects tels que le type d'échelle, la couleur du graphique, la taille des points, la résolution et le format de sortie.
   
 ## Technologies
