@@ -30,12 +30,22 @@ Pour installer le logiciel, effectuez les opérations suivantes :
 
 3- Ouvrez un terminal et naviguez jusqu'au répertoire contenant le code source du logiciel.
 
-4- Exécutez la commande suivante pour installer les dépendances :
+4- Créez un environnement virtuel en exécutant la commande suivante :
+```
+python -m venv venv
+```
 
+5- Activez l'environnement virtuel en exécutant la commande suivante :
+```
+source venv/bin/activate
+```
+
+6- Installez les dépendances en exécutant la commande suivante :
 ```
 pip install -r requirements.txt
 ```
-5- Exécutez la commande suivante pour lancer le logiciel :
+
+7- Lancez le logiciel en exécutant la commande suivante :
 ```
 python heat_exchanger_beta.py
 ```
