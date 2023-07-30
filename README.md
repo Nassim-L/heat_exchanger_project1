@@ -22,9 +22,13 @@ Le logiciel a été développé en Python et utilise les technologies suivantes 
 Pour installer le logiciel, effectuez les opérations suivantes :
 
 1- Téléchargez le code source du logiciel depuis GitHub.
+
 2- Décompressez le fichier ZIP dans un répertoire de votre choix.
+
 3- Ouvrez un terminal et naviguez jusqu'au répertoire contenant le code source du logiciel.
+
 4- Exécutez la commande suivante pour installer les dépendances :
+
 ```
 pip install -r requirements.txt
 ```
