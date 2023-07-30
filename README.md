@@ -37,6 +37,9 @@ python heat_exchanger_beta.py
 Le logiciel est très simple à utiliser. Pour effectuer un calcul, procédez comme suit :
 
 1- Ouvrez le logiciel.
+
 2- Dans la fenêtre d'accueil, saisissez les valeurs des paramètres requis.
+
 3- Cliquez sur le bouton "Calculer".
+
 4- Les résultats du calcul seront affichés dans la fenêtre de sortie.
