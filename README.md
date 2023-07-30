@@ -38,7 +38,7 @@ python -m venv venv
 
 5- Activez l'environnement virtuel en exécutant la commande suivante :
 ```
-venv/bin/activate
+venv\Scripts\activate.bat
 ```
 
 6- Installez les dépendances en exécutant la commande suivante :
