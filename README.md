@@ -20,7 +20,8 @@ Le logiciel a été développé en Python et utilise les technologies suivantes 
 * PyQt6 pour l'interface utilisateur
 * Pandas pour la manipulation des données
 * Matplotlib pour les graphiques
-  
+
+
 ## Installation
 Pour installer le logiciel, effectuez les opérations suivantes :
 
@@ -49,6 +50,10 @@ pip install -r requirements.txt
 ```
 python heat_exchanger_beta.py
 ```
+
+## Exécutable (Windows 64 bit)
+
+https://drive.google.com/file/d/11Fl92Osx-H5eZ_9iSFHdZbgyU3BIutQf/view?usp=drive_link
 
 ## Utilisation
 Le logiciel est très simple à utiliser. Pour effectuer un calcul, procédez comme suit :
