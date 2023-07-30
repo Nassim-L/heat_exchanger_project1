@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 5- Exécutez la commande suivante pour lancer le logiciel :
 ```
-python main.py
+python heat_exchanger_beta.py
 ```
 
 ## Utilisation
