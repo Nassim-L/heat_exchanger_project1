@@ -21,6 +21,13 @@ Le logiciel a été développé en Python et utilise les technologies suivantes 
 * Pandas pour la manipulation des données
 * Matplotlib pour les graphiques
 
+## Vidéo d'installation et d'utilisation
+
+https://youtu.be/LqUtyZQTeF0
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LqUtyZQTeF0/0.jpg)](https://www.youtube.com/watch?v=LqUtyZQTeF0)
+
+
 
 ## Installation
 Pour installer le logiciel, effectuez les opérations suivantes :
@@ -53,7 +60,7 @@ python heat_exchanger_beta.py
 
 ## Exécutable (Windows 64 bit)
 
-https://drive.google.com/file/d/11Fl92Osx-H5eZ_9iSFHdZbgyU3BIutQf/view?usp=drive_link
+https://drive.google.com/file/d/1MEx7GAh7sk2UjwfnhguyTRRGEPZDBQtM/view?usp=sharing
 
 ## Utilisation
 Le logiciel est très simple à utiliser. Pour effectuer un calcul, procédez comme suit :
