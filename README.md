@@ -24,11 +24,7 @@ Le logiciel a été développé en Python et utilise les technologies suivantes 
 ## Vidéo d'installation et d'utilisation
 
 https://youtu.be/LqUtyZQTeF0
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LqUtyZQTeF0/0.jpg)](https://www.youtube.com/watch?v=LqUtyZQTeF0)
-
-
-
+              
 ## Installation
 Pour installer le logiciel, effectuez les opérations suivantes :
 
